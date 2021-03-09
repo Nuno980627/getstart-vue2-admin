@@ -75,7 +75,20 @@ npm run lint
 # 代码格式检查并自动修复
 npm run lint -- --fix
 ```
+## git
+方便建立新的仓库，删除原有的git history
+```bash
+# 删除原有git
+rm -rf .git
 
+# 构建生产环境
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin YourProjectGithubUrl
+git push -u origin main
+```
 
 ## Browsers support
 
