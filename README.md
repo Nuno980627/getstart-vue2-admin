@@ -88,9 +88,14 @@ Modern browsers and Internet Explorer 10+.
 Nuno 
 e-mail:952571278@qq.com
 ## License
-保留原作者MIT license
-本项目也采用MIT license开源
-[MIT](https://github.com/Nuno980627/getstart-vue2-admin/blob/main/LICENSE)
-[MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
-Copyright (c) 2020-present Nuno
+保留原作者MIT license   
+
+本项目也采用MIT license开源   
+
+本项目协议[MIT](https://github.com/Nuno980627/getstart-vue2-admin/blob/main/LICENSE)   
+
+原作者协议[MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.   
+
+Copyright (c) 2020-present Nuno   
+
 Copyright (c) 2017-present PanJiaChen
