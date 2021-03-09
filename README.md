@@ -33,10 +33,10 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+git clone https://github.com/Nuno980627/getstart-vue2-admin
 
 # 进入项目目录
-cd vue-admin-template
+cd getstart-vue2-admin
 
 # 安装依赖
 npm install
@@ -48,7 +48,7 @@ npm install --registry=https://registry.npm.taobao.org
 npm run dev
 ```
 
-浏览器访问 [http://localhost:9528](http://localhost:9528)
+
 
 ## 发布
 
@@ -111,4 +111,4 @@ e-mail:952571278@qq.com
 
 Copyright (c) 2020-present Nuno   
 
-Copyright (c) 2017-present PanJiaChen
+
